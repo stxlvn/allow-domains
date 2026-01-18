@@ -1258,3 +1258,4 @@ nftset=/zerkalo.io/4#inet#fw4#vpn_domains
 nftset=/zona.media/4#inet#fw4#vpn_domains
 nftset=/static.cloudflareinsights.com/4#inet#fw4#vpn_domains
 nftset=/store.akamai.steamstatic.com/4#inet#fw4#vpn_domains
+nftset=/ailiberty.tv/4#inet#fw4#vpn_domains
