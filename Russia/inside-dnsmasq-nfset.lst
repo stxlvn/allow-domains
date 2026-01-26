@@ -1371,3 +1371,4 @@ nftset=/vesta.web.telegram.org/4#inet#fw4#vpn_domains
 nftset=/web.telegram.org/4#inet#fw4#vpn_domains
 nftset=/webk.telegram.org/4#inet#fw4#vpn_domains
 nftset=/webz.telegram.org/4#inet#fw4#vpn_domains
+nftset=/tampermonkey.net/4#inet#fw4#vpn_domains
