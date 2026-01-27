@@ -1374,3 +1374,5 @@ nftset=/webz.telegram.org/4#inet#fw4#vpn_domains
 nftset=/tampermonkey.net/4#inet#fw4#vpn_domains
 nftset=/shikimori.one/4#inet#fw4#vpn_domains
 nftset=/veliona.online/4#inet#fw4#vpn_domains
+nftset=/anixsekai.com/4#inet#fw4#vpn_domains
+nftset=/anixmirai.com/4#inet#fw4#vpn_domains
